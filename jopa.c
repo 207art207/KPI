@@ -47,5 +47,5 @@ int matrix_3[3][3] = {
     {z31, z32, z33}
     };
     
-printf ("matrix_3 = %m", matrix_3[3][3])
+printf ("matrix_3 = %d", matrix_3[3][3])
 }
